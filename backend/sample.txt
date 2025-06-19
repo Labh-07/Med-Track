@@ -1,0 +1,19 @@
+Name: Sample Patel
+
+Doctor Email: sample.patel@example.com
+
+Email: sample.patel.personal@example.com
+
+Set Password: Sample@123
+
+Password: ample@2024
+
+Experience: 8 Years
+
+Fees: ₹750
+
+About Doctor: Dr. Sample Patel is an experienced General Physician with a focus on holistic healthcare and patient education. He believes in preventive medicine and personalized treatment plans.
+
+Speciality: General Physician
+
+Address: 234 Wellness Plaza, Chennai, Tamil Nadu, India

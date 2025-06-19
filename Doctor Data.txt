@@ -1,0 +1,127 @@
+
+_id
+68070ccdc4ee24f7a7c6bdf3
+name
+"Bhagy Patel"
+email
+"bhagy.patel@example.com"
+password
+"$2b$10$vcGeBF2ESYjFzEkqZtI9/ukuy9hEBuJmSxN435xC5ibS5xAwwj7O2"
+image
+"https://res.cloudinary.com/dsxpads5g/image/upload/v1745292492/auk7zkgs…"
+speciality
+"Pediatricians"
+degree
+"MD Pediatrician"
+experience
+"5 Year"
+about
+"Dr. Bhagy Patel is a trusted Pediatrician known for her gentle approac…"
+available
+true
+fees
+449
+
+address
+Object
+date
+1745292493640
+
+slots_booked
+Object
+__v
+0
+_id
+68070d3cc4ee24f7a7c6bdf5
+name
+"Shaishvi Patel"
+email
+"shaishvi.patel@example.com"
+password
+"$2b$10$0g3rVGN.E0QhvoYY0qOyLOdPa/s0kkPEwkfp326QeRIag8X5igZ8a"
+image
+"https://res.cloudinary.com/dsxpads5g/image/upload/v1745292603/mhni7h7i…"
+speciality
+"Dermatologist"
+degree
+"MD "
+experience
+"2 Year"
+about
+"Dr. Shaishvi Patel is a Dermatologist specializing in skin and hair tr…"
+available
+true
+fees
+550
+
+address
+Object
+date
+1745292604677
+
+slots_booked
+Object
+__v
+0
+_id
+68070d85c4ee24f7a7c6bdf7
+name
+"Hetvi Patel"
+email
+"hetvi.patel@example.com"
+password
+"$2b$10$6vMIMpam8sW0yZ2Wi8Rxk.E9kIWaCKCLXmw7Hrv/UT.yckzu4aw7S"
+image
+"https://res.cloudinary.com/dsxpads5g/image/upload/v1745292676/tfmfkpfw…"
+speciality
+"General physician"
+degree
+"MD Gastroenterologist"
+experience
+"6 Year"
+about
+"Dr. Hetvi Patel is a renowned Gastroenterologist with expertise in dig…"
+available
+true
+fees
+697
+
+address
+Object
+date
+1745292677382
+
+slots_booked
+Object
+__v
+0
+_id
+680710dffe939ef473bc4154
+name
+"Sample"
+email
+"sample123@gmail.com"
+password
+"$2b$10$R4lXTgcOD2lqHbvvSEErI.HGMWVOLYpHdpGBW7UicofoJQcA6V2P6"
+image
+"https://res.cloudinary.com/dsxpads5g/image/upload/v1745293534/bpnmxywc…"
+speciality
+"Neurologist"
+degree
+"MD"
+experience
+"6 Year"
+about
+"Sample Description"
+available
+true
+fees
+499
+
+address
+Object
+date
+1745293535065
+
+slots_booked
+Object
